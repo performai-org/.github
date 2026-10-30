@@ -394,4 +394,18 @@ reference-data/**/.env.*
 reference-data/**/id_rsa
 reference-data/**/id_ed25519
 
+# --- assets (committed images and icons) ---
+!assets/
+!assets/**
+assets/**/.DS_Store
+assets/**/Thumbs.db
+assets/**/Desktop.ini
+assets/**/*.swp
+assets/**/*.swo
+assets/**/*~
+assets/**/.env
+assets/**/.env.*
+assets/**/id_rsa
+assets/**/id_ed25519
+
 # <<< END stdlayout (end of the lines maintained by init_project.py)

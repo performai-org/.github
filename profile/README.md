@@ -54,6 +54,8 @@ AI-assisted coding makes development many times faster, and one person maintaini
 | [element-plus-starter-ts](https://github.com/performai-org/element-plus-starter-ts) | Element Plus starter template with TypeScript enhancements |
 | [quick-helper](https://github.com/performai-org/quick-helper) | npm module of useful JavaScript development functions, written in TypeScript |
 
+[stdlayout](https://github.com/performai-org/stdlayout) can create a standard directory structure that facilitates operations and maintenance:
+![stdlayout](../assets/images/stdlayout1.png)
 ### Earlier open-source projects by our team members
 
 | Project | What it does |
