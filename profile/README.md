@@ -40,10 +40,7 @@ AI-assisted coding makes development many times faster, and one person maintaini
 | Function | Project | Status |
 |---|---|---|
 | Standard project layout and multi-language `.gitignore` | [stdlayout](https://github.com/performai-org/stdlayout) | ✅ Open source |
-| Release on version tag, automatic rollback | — | Coming |
-| Centralized configuration and secrets | — | Coming |
-| Monitoring and automatic recovery | — | Coming |
-| Encrypted off-site backup | — | Coming |
+
 
 ---
 
