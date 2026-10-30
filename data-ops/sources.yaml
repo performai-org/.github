@@ -1,0 +1,9 @@
+# 数据在哪(不机密,提交)。备份工具据此工作;没有需要备份的数据保留空列表。
+# Where the data lives (not secret, committed). Backup tools read this. Keep empty if none.
+data: []
+# 例 / examples:
+# data:
+#   - {type: dir,      path: data/}
+#   - {type: dir,      path: upload/}
+#   - {type: sqlite,   path: db/app.sqlite3}
+#   - {type: postgres, name: mydb}
