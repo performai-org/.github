@@ -4,7 +4,7 @@
 
 **AI 产品、AI 基础设施与工程工具,以尽可能低的成本支撑规模化运行。**
 
-🌐 [www.performai.org](https://www.performai.org/introduction)
+🌐 [www.performai.org](https://www.performai.org)
 
 PerformAI.org 研发 AI 产品及其背后的基础设施,从低成本分布式推理,到多模态语音与视频处理流水线。我们对每一次发布都坚持高标准:项目在核心开发完成、并经过充分测试之后,才会开源。我们的大量成果正在支撑自有产品和内部平台,这里展示的只是开始。关注我们,第一时间获得新项目发布的通知。
 

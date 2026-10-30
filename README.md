@@ -1,10 +1,10 @@
 # PerformAI.org — Open-Source AI Lab
 
-English · [中文](https://github.com/performai-org/.github/blob/main/profile/README.zh-CN.md)
+English · [中文](https://github.com/performai-org/.github/blob/main/README.zh-CN.md)
 
 **AI products, AI infrastructure and engineering tools, built to run at scale at the lowest possible cost.**
 
-🌐 [www.performai.org](https://www.performai.org/introduction)
+🌐 [www.performai.org](https://www.performai.org)
 
 PerformAI.org builds AI products and the infrastructure behind them, from low-cost distributed inference to multi-modal speech and video pipelines. We hold every release to a high bar: a project is open-sourced only after its core development is complete and it has been thoroughly tested. Much of our work powers our own products and internal platforms, and what you see here is only the beginning. Follow us to be notified of new releases.
 
