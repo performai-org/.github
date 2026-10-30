@@ -93,7 +93,7 @@ AI 辅助编程让开发速度提高了许多倍,一个人维护上百个项目�
 
 
 
-### 技术社区
+### 团队成员的技术社区
 - [Unix & Linux Stack Exchange](https://unix.stackexchange.com/users/edward-shen)
 
 ---

@@ -87,7 +87,7 @@ More on [SourceForge](https://sourceforge.net/u/shendl_s/profile/) and the [Goog
 ### Patents by our team members
 - CN105549905B: *一种多虚拟机访问分布式对象存储系统的方法* (A method for multiple virtual machines to access a distributed object storage system). [Google Patents](https://patents.google.com/patent/CN105549905A/zh)
 
-### Community
+### Community by our team members
 - [Unix & Linux Stack Exchange](https://unix.stackexchange.com/users/edward-shen)
 
 ---
