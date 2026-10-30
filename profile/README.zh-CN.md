@@ -20,7 +20,7 @@ PerformAI.org 研发 AI 产品及其背后的基础设施,从低成本分布式�
 | **语音翻译** | 输入音频,生成翻译字幕 |
 | **智能对话** | 基于大语言模型的对话助手,可根据客户场景增强智能 |
 
-……还有更多 AI 产品。欢迎到 [www.performai.org](https://www.performai.org/introduction) 体验。
+……还有更多 AI 产品。欢迎到 [www.performai.org](https://www.performai.org) 体验。
 
 ---
 
