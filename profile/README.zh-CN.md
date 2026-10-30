@@ -55,7 +55,7 @@ AI 辅助编程让开发速度提高了许多倍,一个人维护上百个项目�
 | [quick-helper](https://github.com/performai-org/quick-helper) | 用 TypeScript 编写的常用 JavaScript 开发函数 npm 模块 |
 
 [stdlayout](https://github.com/performai-org/stdlayout)可以创建便于运维的标准目录结构:
-![stdlayout](../assets/images/stdlayout1.png)
+![stdlayout](../assets/images/init_project-v1.0.1.png)
 ### 团队成员早期的开源项目
 
 | 项目 | 用途 |
