@@ -75,25 +75,30 @@ AI 辅助编程让开发速度提高了许多倍,一个人维护上百个项目�
 
 ## 论文、文章与专利
 
+### 团队成员论文
+* 《Built-in Ops：面向单人维护多项目的近零人工运维体系设计》。Zenodo，2026 年。[DOI: 10.5281/zenodo.24048533](https://zenodo.org/records/24048533)
+* 《Beyond Patrol：用于永久社区治理的混合云边缘框架》。Zenodo，2026 年。[DOI: 10.5281/zenodo.19703327](https://doi.org/10.5281/zenodo.19703327)
 
-
-### 团队成员的专利
-- CN105549905B:*一种多虚拟机访问分布式对象存储系统的方法*。[Google Patents](https://patents.google.com/patent/CN105549905A/zh)
-
-
-### 团队成员的文章与专栏
-- 《用 JNA 轻松调用本地函数》,《程序员》杂志约稿文章。[阅读](https://blog.csdn.net/shendl/article/details/4362495)
-- CSDN 专栏。[阅读](https://blog.csdn.net/shendl/)
-- InfoQ 中文站专栏。[阅读](https://www.infoq.cn/u/shendl/publish)
-
-
-### 团队成员的论文
-- *Beyond Patrol: A Hybrid Cloud-Edge Framework for Permanent Community Governance*. Zenodo, 2026. [DOI: 10.5281/zenodo.19703327](https://doi.org/10.5281/zenodo.19703327)
+### 团队成员专利
+* CN105549905B：*一种多虚拟机访问分布式对象存储系统的方法*。[Google Patents](https://patents.google.com/patent/CN105549905A/zh)
 
 
 
-### 团队成员的技术社区
-- [Unix & Linux Stack Exchange](https://unix.stackexchange.com/users/edward-shen)
+### 团队成员文章与专栏
+* 《使用 JNA 轻松调用本地函数》。特邀文章，《程序员》杂志。[阅读原文](https://blog.csdn.net/shendl/article/details/4362495)
+* CSDN 技术专栏。[阅读原文](https://blog.csdn.net/shendl/)
+* InfoQ 中国技术专栏。[阅读原文](https://www.infoq.cn/u/shendl/publish)
+
+
+
+### 社区贡献
+* [Unix & Linux Stack Exchange 社区主页](https://unix.stackexchange.com/users/edward-shen)
+
+
+### 作者学术标识
+* [ORCID 学者主页](https://orcid.org/0009-0008-2949-2877)
+
+
 
 ---
 

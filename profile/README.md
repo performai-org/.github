@@ -76,18 +76,26 @@ More on [SourceForge](https://sourceforge.net/u/shendl_s/profile/) and the [Goog
 ## Papers, articles and patents
 
 ### Papers by our team members
-- *Beyond Patrol: A Hybrid Cloud-Edge Framework for Permanent Community Governance*. Zenodo, 2026. [DOI: 10.5281/zenodo.19703327](https://doi.org/10.5281/zenodo.19703327)
-
-### Articles and columns by our team members
-- *Calling Native Functions Easily with JNA*. Invited article, *Programmer* (《程序员》) magazine. [Read](https://blog.csdn.net/shendl/article/details/4362495)
-- Column on CSDN. [Read](https://blog.csdn.net/shendl/)
-- Column on InfoQ China. [Read](https://www.infoq.cn/u/shendl/publish)
+* *Built-in Ops: Near-Zero Manual Operations Architecture for Single-Developer Multi-Project Maintenance*. Zenodo, 2026. [DOI: 10.5281/zenodo.24048533](https://zenodo.org/records/24048533)
+* *Beyond Patrol: A Hybrid Cloud-Edge Framework for Permanent Community Governance*. Zenodo, 2026. [DOI: 10.5281/zenodo.19703327](https://doi.org/10.5281/zenodo.19703327)
 
 ### Patents by our team members
-- CN105549905B: *一种多虚拟机访问分布式对象存储系统的方法* (A method for multiple virtual machines to access a distributed object storage system). [Google Patents](https://patents.google.com/patent/CN105549905A/zh)
+* CN105549905B: *A method for multiple virtual machines to access a distributed object storage system*. [Google Patents](https://patents.google.com/patent/CN105549905A/zh)
+
+
+### Articles and columns by our team members
+* *Calling Native Functions Easily with JNA*. Invited article, *Programmer* (《程序员》) magazine. [Read](https://blog.csdn.net/shendl/article/details/4362495)
+* Column on CSDN. [Read](https://blog.csdn.net/shendl/)
+* Column on InfoQ China. [Read](https://www.infoq.cn/u/shendl/publish)
+
+
 
 ### Community by our team members
-- [Unix & Linux Stack Exchange](https://unix.stackexchange.com/users/edward-shen)
+* [Unix & Linux Stack Exchange](https://unix.stackexchange.com/users/edward-shen)
+
+### Academic Identifiers
+* [ORCID Profile](https://orcid.org/0009-0008-2949-2877)
+
 
 ---
 
