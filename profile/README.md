@@ -95,7 +95,8 @@ More on [SourceForge](https://sourceforge.net/u/shendl_s/profile/) and the [Goog
 
 ### Academic Identifiers
 * [ORCID Profile](https://orcid.org/0009-0008-2949-2877)
-
+  
+* [Google Scholar](https://scholar.google.com/citations?user=WxxqI-UAAAAJ)
 
 ---
 
