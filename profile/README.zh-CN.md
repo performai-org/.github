@@ -98,7 +98,9 @@ AI 辅助编程让开发速度提高了许多倍,一个人维护上百个项目�
 ### 作者学术标识
 * [ORCID 学者主页](https://orcid.org/0009-0008-2949-2877)
 
-
+ 
+  
+* [谷歌学术](https://scholar.google.com/citations?user=WxxqI-UAAAAJ)
 
 ---
 
